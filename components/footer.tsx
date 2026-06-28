@@ -71,10 +71,10 @@ export function Footer() {
             <ul className="flex flex-col gap-2 text-sm text-muted-foreground">
               <li>
                 <a
-                  href="mailto:hello@nexara.digital"
+                  href="mailto:hello@Velina.digital"
                   className="transition-colors hover:text-foreground"
                 >
-                  hello@nexara.digital
+                  hello@Velina.digital
                 </a>
               </li>
               <li>
@@ -100,7 +100,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="mt-14 flex flex-col items-center justify-between gap-3 border-t border-border pt-6 sm:flex-row">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Nexara Digital. All rights reserved.
+            © {new Date().getFullYear()} Velina Digital. All rights reserved.
           </p>
           <p className="font-mono text-xs text-muted-foreground">
             Made with AI &amp; Obsession

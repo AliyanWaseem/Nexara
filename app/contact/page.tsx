@@ -422,7 +422,7 @@ export default function ContactPage() {
 
                     {/* Email */}
                     <a
-                      href="mailto:hello@nexaradigital.com"
+                      href="mailto:hello@Velinadigital.com"
                       className="flex items-center gap-4 rounded-xl border border-border bg-bg-subtle p-4 transition-colors duration-200 hover:border-violet/60 hover:bg-violet/10"
                     >
                       <span className="inline-flex size-10 shrink-0 items-center justify-center rounded-lg bg-violet/15 text-violet">
@@ -430,7 +430,7 @@ export default function ContactPage() {
                       </span>
                       <div>
                         <div className="text-sm font-semibold text-foreground">Email Us</div>
-                        <div className="text-xs text-muted-foreground">hello@nexaradigital.com</div>
+                        <div className="text-xs text-muted-foreground">hello@Velinadigital.com</div>
                       </div>
                       <ArrowRight className="ml-auto size-4 text-muted-foreground" />
                     </a>

@@ -33,8 +33,8 @@ const TIMELINE = [
     year: '2025',
     color: 'text-violet',
     borderColor: 'border-violet',
-    title: 'Nexara Digital Born',
-    desc: 'Turned the freelance operation into a proper agency. Named it Nexara — from "nexus" (connection) + "ara" (to build). That\'s exactly what we do.',
+    title: 'Velina Digital Born',
+    desc: 'Turned the freelance operation into a proper agency. Named it Velina — from "nexus" (connection) + "ara" (to build). That\'s exactly what we do.',
   },
   {
     year: '2026',
@@ -142,7 +142,7 @@ export default function AboutPage() {
           <Reveal>
             <RevealItem>
               <span className="pill inline-flex border border-violet/40 bg-violet/10 px-4 py-1.5 text-sm font-medium text-violet">
-                About Nexara
+                About Velina
               </span>
             </RevealItem>
             <RevealItem>
@@ -201,7 +201,7 @@ export default function AboutPage() {
                 </blockquote>
                 <p className="mt-5 leading-relaxed text-muted-foreground">
                   Most agencies in Pakistan either over-charge for mediocre work
-                  or under-deliver on big promises. We built Nexara to be the
+                  or under-deliver on big promises. We built Velina to be the
                   agency we always wished existed — transparent, technical, and
                   obsessed with your growth.
                 </p>
@@ -237,7 +237,7 @@ export default function AboutPage() {
             </RevealItem>
             <RevealItem>
               <h2 className="mt-5 font-display text-3xl font-bold tracking-tight text-foreground sm:text-4xl lg:text-5xl">
-                How Nexara Was Built
+                How Velina Was Built
               </h2>
             </RevealItem>
           </Reveal>

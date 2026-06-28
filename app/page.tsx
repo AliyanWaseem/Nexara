@@ -1,7 +1,7 @@
 import { Hero } from '@/components/sections/hero'
 import { MarqueeBar } from '@/components/sections/marquee'
 import { Services } from '@/components/sections/services'
-import { WhyNexara } from '@/components/sections/why-nexara'
+import { WhyVelina } from '@/components/sections/why-Velina'
 import { Stats } from '@/components/sections/stats'
 import { Process } from '@/components/sections/process'
 import { Portfolio } from '@/components/sections/portfolio'
@@ -14,7 +14,7 @@ export default function Page() {
       <Hero />
       <MarqueeBar />
       <Services />
-      <WhyNexara />
+      <WhyVelina />
       <Stats />
       <Process />
       <Portfolio />

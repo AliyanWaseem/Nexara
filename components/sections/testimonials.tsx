@@ -6,7 +6,7 @@ import { Reveal, RevealItem } from '@/components/reveal'
 const TESTIMONIALS = [
   {
     quote:
-      'Nexara rebuilt our website and set up an AI chatbot that now handles half our inquiries. Leads doubled in two months.',
+      'Velina rebuilt our website and set up an AI chatbot that now handles half our inquiries. Leads doubled in two months.',
     name: 'Ali Raza',
     role: 'Founder, EduPath Global',
     raised: false,

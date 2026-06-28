@@ -487,7 +487,7 @@ export default function WorkPage() {
             {[
               {
                 quote:
-                  'Nexara built our site in 3 days. Clients actually comment on how professional it looks compared to our competitors.',
+                  'Velina built our site in 3 days. Clients actually comment on how professional it looks compared to our competitors.',
                 name: 'Ahmed Raza',
                 role: 'Study Abroad Consultant, Lahore',
                 color: 'border-violet',

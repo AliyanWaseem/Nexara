@@ -7,6 +7,7 @@ import { Footer } from '@/components/footer'
 import { CursorGlow } from '@/components/cursor-glow'
 import { FloatingCta } from '@/components/floating-cta'
 
+
 const syne = Syne({
   variable: '--font-syne',
   subsets: ['latin'],
@@ -22,9 +23,9 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Nexara Digital — We build. We automate. We grow.',
+  title: 'Velina Digital — We build. We automate. We grow.',
   description:
-    'Nexara Digital is your full-stack digital partner for Web Development, AI Automation, and Digital Marketing.',
+    'Velina Digital is your full-stack digital partner for Web Development, AI Automation, and Digital Marketing.',
   generator: 'v0.app',
 }
 

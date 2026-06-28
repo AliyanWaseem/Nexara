@@ -81,7 +81,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.15 }}
           className="mt-6 max-w-xl text-pretty text-base leading-relaxed text-muted-foreground sm:text-lg"
         >
-          Nexara Digital is your full-stack growth partner — combining premium web
+          Velina Digital is your full-stack growth partner — combining premium web
           development, intelligent AI automation, and data-driven marketing to scale
           your business.
         </motion.p>

@@ -22,19 +22,19 @@ const DIFFERENTIATORS = [
   },
 ]
 
-export function WhyNexara() {
+export function WhyVelina() {
   return (
     <section id="about" className="bg-bg-subtle px-5 py-24 lg:px-8 lg:py-32">
       <div className="mx-auto grid max-w-[1280px] gap-12 lg:grid-cols-2 lg:gap-16">
         <Reveal>
           <RevealItem>
             <span className="pill inline-flex border border-violet/40 bg-violet/10 px-4 py-1.5 text-sm font-medium text-violet">
-              Why Nexara
+              Why Velina
             </span>
           </RevealItem>
           <RevealItem>
             <h2 className="mt-5 font-display text-3xl font-bold leading-tight tracking-tight text-foreground sm:text-4xl">
-              Why Businesses Choose Nexara
+              Why Businesses Choose Velina
             </h2>
           </RevealItem>
           <RevealItem>
