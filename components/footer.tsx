@@ -18,7 +18,7 @@ const SERVICES = [
 const QUICK_LINKS = [
   { label: 'Home', href: '/' },
   { label: 'Our Work', href: '/work' },
-  { label: 'About Us', href: '/#about' },
+  { label: 'About Us', href: '/about' },
   { label: 'Process', href: '/process' },
 ]
 
