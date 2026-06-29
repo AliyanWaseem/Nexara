@@ -1,4 +1,5 @@
-"use client";
+'use client'
+
 import { useState } from 'react'
 import Link from 'next/link'
 import {
@@ -12,14 +13,6 @@ import {
 } from 'lucide-react'
 import { Reveal, RevealItem } from '@/components/reveal'
 import { WhatsAppIcon, LinkedInIcon, InstagramIcon, XIcon } from '@/components/social-icons'
-import { Metadata } from 'next';
-
-// SEO of page
-export const metadata: Metadata = {
-  title: 'Contact Velina — Get a Free Audit',
-  description: 'Contact Velina Digital for a free website audit, AI automation consultation or digital marketing strategy. Based in Lahore, Pakistan.',
-  alternates: { canonical: '/contact' },
-}
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 

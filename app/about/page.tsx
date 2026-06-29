@@ -1,5 +1,3 @@
-'use client'
-
 import Link from 'next/link'
 import { ArrowRight, Code2, Bot, TrendingUp, Zap, Heart, Shield } from 'lucide-react'
 import { Reveal, RevealItem } from '@/components/reveal'
