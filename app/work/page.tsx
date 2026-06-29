@@ -4,6 +4,14 @@ import { useState } from 'react'
 import Link from 'next/link'
 import { ArrowRight, ExternalLink, TrendingUp, Clock, Users } from 'lucide-react'
 import { Reveal, RevealItem } from '@/components/reveal'
+import type { Metadata } from 'next'
+
+// SEO of page
+export const metadata: Metadata = {
+  title: 'Our Work — Velina Digital Portfolio',
+  description: 'Case studies and projects by Velina Digital — websites, AI automation systems and marketing campaigns for Pakistani businesses.',
+  alternates: { canonical: '/work' },
+}
 
 // ─── Data ─────────────────────────────────────────────────────────────────────
 

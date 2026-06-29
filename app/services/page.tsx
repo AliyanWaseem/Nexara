@@ -25,6 +25,14 @@ import {
   Clock,
 } from 'lucide-react'
 import { Reveal, RevealItem } from '@/components/reveal'
+import type { Metadata } from 'next'
+
+// SEO of page
+export const metadata: Metadata = {
+  title: 'Services — Velina Digital Agency Pakistan',
+  description: 'Web development, AI automation and digital marketing services by Velina — Pakistan\'s AI-first digital agency based in Lahore.',
+  alternates: { canonical: '/services' },
+}
 
 // ─── Service Detail Cards ────────────────────────────────────────────────────
 

@@ -31,7 +31,10 @@ const jetbrainsMono = JetBrains_Mono({
 
 
 export const metadata: Metadata = {
-  title: 'Velina Digital — Web Development, AI Automation & Digital Marketing Pakistan',
+  title: {
+  default: 'Velina Digital — Pakistan\'s AI-First Digital Agency',
+  template: '%s | Velina',
+  },
   description: 'Velina Digital is Pakistan\'s AI-first digital agency based in Lahore. We build premium websites, AI automation systems, and run data-driven marketing campaigns for Pakistani businesses.',
   keywords: [
     'digital agency lahore',

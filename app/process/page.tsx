@@ -17,7 +17,14 @@ import {
 } from 'lucide-react'
 import { Reveal, RevealItem } from '@/components/reveal'
 import { WhatsAppIcon } from '@/components/social-icons'
+import type { Metadata } from 'next'
 
+// SEO of page
+export const metadata: Metadata = {
+  title: 'Our Process — How Velina Digital Works',
+  description: 'A transparent 6-step process from free audit to launch. Velina Digital delivers fast, quality results for Pakistani businesses.',
+  alternates: { canonical: '/process' },
+}
 // ─── Data ─────────────────────────────────────────────────────────────────────
 
 const STEPS = [

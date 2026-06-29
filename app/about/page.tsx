@@ -4,7 +4,14 @@ import Link from 'next/link'
 import { ArrowRight, Code2, Bot, TrendingUp, Zap, Heart, Shield } from 'lucide-react'
 import { Reveal, RevealItem } from '@/components/reveal'
 import { WhatsAppIcon, LinkedInIcon, InstagramIcon, XIcon } from '@/components/social-icons'
+import { Metadata } from 'next'
 
+// SEO of page
+export const metadata: Metadata = {
+  title: 'About Velina — Pakistan\'s AI-First Digital Agency',
+  description: 'Velina is a Lahore-based digital agency offering premium web development, AI automation and digital marketing for Pakistani businesses.',
+  alternates: { canonical: '/about' },
+}
 // ─── Data ─────────────────────────────────────────────────────────────────────
 
 const TIMELINE = [
